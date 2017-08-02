@@ -1,0 +1,13 @@
+@charset "utf-8";
+
+html{overflow-y:scroll;}
+
+/* ---------------------------------------------- Body Container ------------------------------------- */
+#container{width: 1000px; height: 800px; display:block; position:relative; margin: 100px auto;}
+#container h1{text-align: center;}
+#container p{text-align: center;}
+
+/* ---------------------------------------------- Button Settings ------------------------------------- */
+#canvas_wrapper{text-align: center;}
+#canvas_wrapper canvas{margin: auto; margin-top: 150px;}
+
